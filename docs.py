@@ -6,7 +6,7 @@ from copy import deepcopy
 from openprocurement.api.tests.base import (
     PrefixedRequestClass, test_tender_data, test_organization
 )
-from openprocurement.relocation.api.tests.base import OwnershipWebTest, test_transfer_data, OpenEUOwnershipWebTest, test_eu_tender_data, test_ua_bid_data
+from openprocurement.relocation.contracts.tests.base import OwnershipWebTest, test_transfer_data
 from openprocurement.contracting.api.tests.base import test_contract_data, test_tender_token
 
 from webtest import TestApp
