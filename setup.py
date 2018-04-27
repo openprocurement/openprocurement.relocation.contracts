@@ -21,7 +21,8 @@ docs_requires = requires + [
 
 entry_points = {
     'openprocurement.relocation.core.plugins': [
-        'relocation.contracts = openprocurement.relocation.contracts.includeme:main'
+        'relocation.contracts = '
+        'openprocurement.relocation.contracts.includeme:main'
     ]
 }
 
@@ -41,7 +42,8 @@ setup(name='openprocurement.relocation.contracts',
       author_email='info@quintagroup.com',
       license='Apache License 2.0',
 
-      url='https://github.com/openprocurement/openprocurement.relocation.contracts',
+      url='https://github.com/openprocurement/openprocurement.relocation.'
+          'contracts',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['openprocurement', 'openprocurement.relocation'],
       include_package_data=True,

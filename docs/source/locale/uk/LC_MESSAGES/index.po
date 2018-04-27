@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openprocurement.relocation.contracts 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-23 23:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:9
+msgid "Welcome to openprocurement.relocation.contracts's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:11
+msgid ""
+"Please report any problems or suggestions for improvement either via the "
+"`mailing list <http://groups.google.com/group/open-procurement-general>`_ or"
+" the `issue tracker "
+"<https://github.com/openprocurement/openprocurement.relocation.contracts/issues>`_."
+msgstr ""
+
+#: ../../source/index.rst:16
+msgid "Contents:"
+msgstr "Зміст:"
+
+#: ../../source/index.rst:24
+msgid "Indices and tables"
+msgstr "Індекси та таблиці"
+
+#: ../../source/index.rst:26
+msgid ":ref:`genindex`"
+msgstr ":ref:`genindex`"
+
+#: ../../source/index.rst:27
+msgid ":ref:`search`"
+msgstr ":ref:`search`"
